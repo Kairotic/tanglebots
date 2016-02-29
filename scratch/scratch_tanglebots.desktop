@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=/opt/scratch_tanglebots/scratch_tanglebots.sh
+Icon=scratch
+Terminal=false
+Name=Scratch Tanglebots
+Comment= Programming system and content development tool
+Categories=Application;Education;Development;
+MimeType=application/x-scratch-project

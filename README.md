@@ -14,10 +14,10 @@ Really it only now depends on the python capxxx lib for the buttons that this in
 Link to the github for that: https://github.com/pimoroni/explorer-hat
 
 Copy tanglebots scratch stuff:
-- sudo mkdir /opt/scratch_tanglebots
-- sudo cp scratch/* /opt/scratch_tanglebots/ 
-- cp scratch/tanglebots.sb  /home/pi/Documents/Scratch\ Projects/
-- cp `scratch_tanglebots.desktop` /home/pi/Desktop
+`sudo mkdir /opt/scratch_tanglebots`
+`sudo cp scratch/* /opt/scratch_tanglebots/`
+`cp scratch/tanglebots.sb  /home/pi/Documents/Scratch\ Projects/`
+`cp `scratch_tanglebots.desktop` /home/pi/Desktop`
 
 Debugging 
 - test the example script it loads automatically

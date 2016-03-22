@@ -21,7 +21,7 @@ different speeds in each direction:
 
 [](https://github.com/Kairotic/tanglebots/guide/motor1.png)
 
-[](./motor2.png)
+[](figures/motor2.png)
 
 Click on these blocks you've made to control the motor. 
 

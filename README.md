@@ -12,8 +12,8 @@ Tanglebots are prototype weaving robots -
   * [Raspberry Pi Touch Display](https://www.raspberrypi.org/products/raspberry-pi-touch-display/)
   * Small USB keyboard/mouse (although we're using a touchscreen a mouse is easier to use)
   * [Microswitches](http://uk.rs-online.com/web/p/microswitches/0515690/) (other suppliers exist)
-  * [Small motors](http://uk.rs-online.com/web/p/dc-motors/2389692/)
-  * Second hand lego from EBay
+  * [Small motors](http://uk.rs-online.com/web/p/dc-motors/2389692/) (other suppliers exist)
+  * Second hand lego
   * Second hand/broken electronic toys (e-waste)
   * Lots of yarn
   * A box of materials from the [Cornwall Scrap Store](http://www.cornwallscrapstore.co.uk/)

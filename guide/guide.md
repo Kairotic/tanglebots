@@ -11,7 +11,7 @@ try controlling a motor first.
 Motors are controlled using variables – you'll need to add a new
 variable called 'motor1' in the window on the left.
 
-[](https://raw.githubusercontent.com/Kairotic/tanglebots/master/guide/figures/final.png)
+![](https://raw.githubusercontent.com/Kairotic/tanglebots/master/guide/figures/final.png)
 
 [](https://github.com/images/variables.png)
 
@@ -23,7 +23,7 @@ different speeds in each direction:
 
 [](https://github.com/Kairotic/tanglebots/guide/motor1.png)
 
-[](figures/motor2.png)
+![](figures/motor2.png)
 
 Click on these blocks you've made to control the motor. 
 

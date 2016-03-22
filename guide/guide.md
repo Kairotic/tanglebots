@@ -11,7 +11,9 @@ try controlling a motor first.
 Motors are controlled using variables – you'll need to add a new
 variable called 'motor1' in the window on the left.
 
-[](https://.github.com/images/variables.png)
+[](https://raw.githubusercontent.com/Kairotic/tanglebots/master/guide/figures/final.png)
+
+[](https://github.com/images/variables.png)
 
 Wire a motor to the Explorer Hat's motor 1 '+' and '–' connections (it
 doesn't matter which way round).

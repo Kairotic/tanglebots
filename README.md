@@ -3,6 +3,8 @@
 Tanglebots are prototype weaving robots -
 [for more info see here](http://fo.am/tanglebots).
 
+![](figures/tanglebot.jpg)
+
 Parts used:
 
   * [Raspberry Pi 2 Model B](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/)
@@ -17,7 +19,7 @@ Parts used:
   * A box of materials from the [Cornwall Scrap Store](http://www.cornwallscrapstore.co.uk/)
 
 Some colour printed [tanglebots for beginners](guide/guide.md) guides.
-  
+
 This repository includes Scratch code for access to [Pimoroni Explorer
 Hat](https://shop.pimoroni.com/products/explorer-hat) capacitive touch buttons from scratch (as sensors).
 

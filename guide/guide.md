@@ -6,6 +6,8 @@ the left of the window into the scripts window in the middle to build
 programs up. There should be a cat in the window in the right, but lets
 try controlling a motor first.  
 
+To enable the Explorer Hat part of Scratch, either use the example scratch script to work from, or make a variable called `AddOn` and set it to `ExplorerHAT` (see below on creating variables).
+
 ## Controlling a motor 
 
 Motors are controlled using variables – you'll need to add a new

@@ -19,7 +19,7 @@ doesn't matter which way round).
 You can now set your variable to different numbers to turn the motor at
 different speeds in each direction:
 
-[](tanglebots/guide/motor1.png)
+[](https://github.com/Kairotic/tanglebots/guide/motor1.png)
 
 [](motor2.png)
 

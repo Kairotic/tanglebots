@@ -11,7 +11,7 @@ try controlling a motor first.
 Motors are controlled using variables – you'll need to add a new
 variable called 'motor1' in the window on the left.
 
-[](variables.png)
+[](https://.github.com/images/variables.png)
 
 Wire a motor to the Explorer Hat's motor 1 '+' and '–' connections (it
 doesn't matter which way round).
@@ -19,7 +19,7 @@ doesn't matter which way round).
 You can now set your variable to different numbers to turn the motor at
 different speeds in each direction:
 
-[](motor1.png)
+[](tanglebots/guide/motor1.png)
 
 [](motor2.png)
 

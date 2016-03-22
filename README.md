@@ -38,4 +38,4 @@ Copy tanglebots scratch stuff (I should write a script for this, but this is a b
 ## Debugging
 
 - Test the example script it loads automatically, which should flash the LED's
-- Run /opt/scratch_tanglebots/scratch_tanglebots.sh in a console to see output from python
+- Run `/opt/scratch_tanglebots/scratch_tanglebots.sh` in a console to see output from python

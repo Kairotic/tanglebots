@@ -1,7 +1,7 @@
-# Setup for tanglebots workshop
+# Tanglebots
 
 Tanglebots are prototype weaving robots -
-[for more info see here](http://fo.am/tanglebots).
+[for more info see here](http://fo.am/tanglebots). This workshop was funded by [AHRC Digital Transformations](http://www.ahrc.ac.uk/research/fundedthemesandprogrammes/themes/digitaltransformations/) and the [British Science Association](http://www.britishscienceassociation.org/)
 
 ![](figures/tanglebot.jpg)
 

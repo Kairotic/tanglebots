@@ -129,7 +129,7 @@ class ScratchSender(threading.Thread):
         while not self.stopped():
             for i,button in enumerate(touch_buttons):
                 if button.has_changed():
-                    sensor_name = 'touch'+str(i)
+                    sensor_name = 'touch'+str(i+1)
                     val='0'
                     if button.is_pressed(): val='1' 
                     bcast_str = '"' + sensor_name + '" ' + val

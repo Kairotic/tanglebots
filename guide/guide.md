@@ -29,7 +29,7 @@ Click on these blocks you've made to control the motor.
 
 ## Reading sensors from the outside world
 
-Let's use a microswitch to spin the cat in the right window. The the
+Let's use a microswitch to spin the cat in the right window. The
 blocks are organised in the library by colour, which should help you
 find them. Click on the green flag to test it works.
 
